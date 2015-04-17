@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NGridView">
+        <!-- 行数 -->
+       <attr name="grid_raw" format="integer"/>
+       <!-- 列数 -->
+       <attr name="grid_col" format="integer"/>
+       <!-- 分割线的颜色 -->
+       <attr name="grid_split_color" format="integer"></attr>
+        </declare-styleable>
+</resources>
